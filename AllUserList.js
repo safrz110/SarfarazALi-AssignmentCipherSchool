@@ -14,7 +14,7 @@ const AllUserList = () => {
     let allUsers = [
       { name: "Sarfaraz", email: "safrz110@email.com",phoneNumber: "+91-6005079432"},
       { name: "Prakhar", email: "psmahori11@gmail.com", phoneNumber: "+91-76398358905"},
-      { name: "Kartik", email: "nilanjan@email.com", phoneNumber: "+91-9911355117"},
+      { name: "Kartik", email: "kartik119@email.com", phoneNumber: "+91-9911355117"},
     ];
 
     // let array = [
