@@ -13,8 +13,8 @@ const AllUserList = () => {
         // allusers = [    
     let allUsers = [
       { name: "Sarfaraz", email: "safrz110@email.com",phoneNumber: "+91-6005079432"},
-      { name: "Jatin", email: "jatin@email.com", phoneNumber: "+91-7869503121"},
-      { name: "nilanjan", email: "nilanjan@email.com", phoneNumber: "+91-6598743212"},
+      { name: "Prakhar", email: "psmahori11@gmail.com", phoneNumber: "+91-76398358905"},
+      { name: "Kartik", email: "nilanjan@email.com", phoneNumber: "+91-9911355117"},
     ];
 
     // let array = [
@@ -31,7 +31,7 @@ const AllUserList = () => {
 
     // render() {
     //     setTimeout(() => {
-    //         this.setState({ name: "Gourav Sharma"});
+    //         this.setState({ name: "Sarfaraz Ali"});
     //     }, 15000);
     // }
 
@@ -61,7 +61,7 @@ const AllUserList = () => {
 
 // const AllUserList = () => {
 //     // let xyz = useState(); // xyz is an array which contains 2 things, xyz[0], is state and xyz(1) is setter function
-//     const [state, setState] = useState({ name: "Gourav Sharma"});
+//     const [state, setState] = useState({ name: "Sarfaraz Ali"});
 
 //     return <h1>The name is {state.name}</h1>;
 // };
