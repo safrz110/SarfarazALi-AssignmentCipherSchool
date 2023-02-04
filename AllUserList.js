@@ -13,8 +13,8 @@ const AllUserList = () => {
         // allusers = [    
     let allUsers = [
       { name: "Sarfaraz", email: "safrz110@email.com",phoneNumber: "+91-6005079432"},
-      { name: "gogia", email: "gogia@email.com", phoneNumber: "+91-8977722134"},
-      { name: "jack", email: "jack@email.com", phoneNumber: "+91-6598743212"},
+      { name: "Gogia", email: "gogia@email.com", phoneNumber: "+91-8977722134"},
+      { name: "Jack", email: "jack@email.com", phoneNumber: "+91-6598743212"},
     ];
 
     // let array = [
