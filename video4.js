@@ -111,8 +111,8 @@
 
 // Object matching...
 
-// let obj1 = { name: "Ujjwal", age: 20 }; 
-// let obj2 = { name: "Ujjwal" };
+// let obj1 = { name: "Sarfaraz", age: 20 }; 
+// let obj2 = { name: "Sarfaraz" };
 
 // function areEqual(obj1, obj2) {
 //     if (obj1 === obj2) {
@@ -138,7 +138,7 @@
 // Map and Set
 
 // let map = new Map();
-// map.set(1, "Ujjwal");
+// map.set(1, "Sarfaraz");
 // map.set(2, "Ayush");
 
 // map.values()
