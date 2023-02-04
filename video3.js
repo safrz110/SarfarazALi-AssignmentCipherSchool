@@ -3,23 +3,23 @@
 // 2. by using let
 // 3. by using const
 
-// var myName = "Ujjwal";
+// var myName = "Sarfaraz";
 // console.log(myName);
 
 // const myName = [];
 // console.log(myName);
-// myName.append("Ujjwal");
+// myName.append("Sarfaraz");
 // console.log(myName);
 
-// let myName = "Ujjwal";
+// let myName = "Sarfaraz";
 // console.log(myName);
 // myName = "5"; 
 // console.log(myName);
 
 // String Interpolation
 
-// let firstName = "Ujjwal";
-// let lastName = "Bhardwaj"
+// let firstName = "Sarfaraz";
+// let lastName = "Ali"
 
 // console.log(firstName + " " + lastName)
 
@@ -82,11 +82,11 @@
 // For Object
 
 let object = {
-    // name: "Ujjwal",
+    // name: "Sarfaraz",
     // age: 20,
     // city: "Jalandhar",
 
-    name: "Ujjwal",
+    name: "Sarfaraz",
     age: 24,
     address: {
         city: "Jalandhar",
